@@ -1,0 +1,9 @@
+{
+  "configs": {
+    "enable_inters_ads": true,
+    "rate_this_app": true,
+    "time_one_show": 43200000,
+    "version_code": 1000,
+    "ads_platform": "admob"
+  }
+}
